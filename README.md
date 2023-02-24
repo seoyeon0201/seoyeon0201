@@ -37,6 +37,6 @@ Studying of backend 💻
 </div></br>
 
 <div align="center">
-  <a href="https://github.com/seoyeon0201"><img align="center" style="height:160px" src="https://github-readme-stats.vercel.app/api?username=seoyeon0201&show_icons=true&theme=buefy&hide_border=true"/></a>
+  <a href="https://github.com/seoyeon0201"><img align="center" style="height:160px" src="https://github-readme-stats.vercel.app/api?username=seoyeon0201&show_icons=true&theme=buefy"/></a>
   <a href="https://github.com/seoyeon0201"><img align="center" style="height:130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seoyeon0201&layout=compact&theme=dark&hide_border=true" /></a> 
 </div>
