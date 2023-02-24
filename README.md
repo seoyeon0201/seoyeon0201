@@ -29,5 +29,7 @@ I'm studying of backend 💻
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white">
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
 </div>
+<div>
 
+</div>
 ![Seoyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyeon0201&show_icons=true&theme=buefy)
