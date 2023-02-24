@@ -1,12 +1,17 @@
-### Hi, My name is Seoyeon 🤭
+### Hi, My name is Seoyeon !
 
-I'm studying of backend 
+I'm studying of backend 📓
 
-<h3 align="center">💎Tech Stack💎</h3>
-<!--<img src="https://img.shields.io/badge/문자-색코드?style=for-the-badge&logo=이미지 이름&logoColor=black"> 이미지 이름과 색코드는 simple icon에서-->
-<img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=Python&logoColor=white" alt="python/>
+<div align="center">
+<h3>💎Tech Stack💎</h3>
+<!--<img src="https://img.shields.io/badge/스택이름-색상코드?style=flat-square&logo=로고명&logoColor=로고색" alt=""/> 로고명과 색상코드는 simple icon에서, 스택이름은 원하는대로 설정-->
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+</div>
 
-<h3 align="center"></h3>
+<div align="center">
+  <h3></h3>
+  <img src="https://img.shields.io/badge/Visual Studio Code-#007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
+</div>
 
 
 ![Seoyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyeon0201&show_icons=true&theme=buefy)
