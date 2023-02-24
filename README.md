@@ -1,6 +1,6 @@
 ### Hi, My name is Seoyeon !
 
-I'm studying of backend 💻
+Studying of backend 💻
 
 <div align="center">
   <h3>Language</h3>
