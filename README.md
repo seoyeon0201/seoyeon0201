@@ -38,6 +38,7 @@ Studying of backend 💻
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
 </div></br>
 
-  
-![Seoyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyeon0201&show_icons=true&theme=buefy)
-![Seoyeon's Language](https://github-readme-stats.vercel.app/api/top-langs/?username=seoyeon0201&layout=compact&theme=dark)
+<div align="center">
+  ![Seoyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyeon0201&show_icons=true&theme=buefy)
+  ![Seoyeon's Language](https://github-readme-stats.vercel.app/api/top-langs/?username=seoyeon0201&layout=compact&theme=dark)
+</div>
