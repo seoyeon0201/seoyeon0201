@@ -40,3 +40,4 @@ Studying of backend 💻
 
   
 ![Seoyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyeon0201&show_icons=true&theme=buefy)
+![Seoyeon's Language](https://github-readme-stats.vercel.app/api/top-langs/?username=seoyeon0201&layout=compact&theme=dark)
