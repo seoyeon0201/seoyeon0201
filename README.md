@@ -18,8 +18,6 @@ Studying of backend 💻
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitKraken-179287?style=flat-square&logo=GitKraken&logoColor=white"/></br>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
-  
-  
 </div>
 
 <div align="center">
@@ -38,7 +36,8 @@ Studying of backend 💻
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
 </div></br>
 
-<div align="center">
+<a href="https://github.com/seoyeon0201"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=seoyeon0201&show_icons=true&theme=buefy&hide_border=true"/></a>
+<a href="https://github.com/seoyeon0201"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seoyeon0201&layout=compact&theme=dark&hide_border=true" /></a> 
+  
   ![Seoyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyeon0201&show_icons=true&theme=buefy)
   ![Seoyeon's Language](https://github-readme-stats.vercel.app/api/top-langs/?username=seoyeon0201&layout=compact&theme=dark)
-</div>
