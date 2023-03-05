@@ -4,7 +4,7 @@ Studying of backend 💻
 
 <div align="center">
   <h3>Study blog</h3>
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=seoyeon(https://velog.io/@tjdus0201) 
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=seoyeon)]([https://velog.io/@eungyeole](https://velog.io/@tjdus0201)) 
 </div>
 
 <div align="center">
