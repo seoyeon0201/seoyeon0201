@@ -34,15 +34,16 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
 </div></br>
 
-
-<div align="center">
-  <a href="https://github.com/seoyeon0201"><img align="center" style="height:160px" src="https://github-readme-stats.vercel.app/api?username=seoyeon0201&show_icons=true&theme=buefy"/></a>
-  <a href="https://github.com/seoyeon0201"><img align="center" style="height:130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seoyeon0201&layout=compact&theme=dark&hide_border=true" /></a> 
-</div>
-
 <div align="center">
   <h3>Contact</h3>
   <a href="https://velog.io/@tjdus0201" target="_blank" >
     <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@tjdus0201"/>
   </a>
 </div>
+
+<div align="center">
+  <a href="https://github.com/seoyeon0201"><img align="center" style="height:160px" src="https://github-readme-stats.vercel.app/api?username=seoyeon0201&show_icons=true&theme=buefy"/></a>
+  <a href="https://github.com/seoyeon0201"><img align="center" style="height:130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seoyeon0201&layout=compact&theme=dark&hide_border=true" /></a> 
+</div>
+
+
