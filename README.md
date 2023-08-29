@@ -1,4 +1,4 @@
-### Studying of backend 💻
+### Studying of Backend & Cloud 💻
 
 <div align="center">
   <h3>Language</h3>
