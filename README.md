@@ -11,9 +11,12 @@ Drive operational efficiency by designing architectures tailored to diverse busi
   <a href="https://www.linkedin.com/in/%EC%84%9C%EC%97%B0-%EB%B0%95-85bb22298/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
   </a>
-  &nbsp; &nbsp;
+
   <a href="mailto:psy0201123@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Address">
+  </a>
+  <a href="https://momentous-target-f7b.notion.site/268deb6219af80ad8730e32709c67149" target="_blank">
+    <img src="https://img.shields.io/badge/Website-1572B6?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="개인 웹사이트/블로그">
   </a>
 </p>
 
